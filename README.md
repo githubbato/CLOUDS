@@ -1,5 +1,5 @@
 # CLOUDS
-Clone the Repository: git clone https://github.com/yourusername/clouds-website.git
+Clone the Repository: git clone https://github.com/githubbato/CLOUDS.git
 
 Go to the Project Folder then cd clouds-website
 
