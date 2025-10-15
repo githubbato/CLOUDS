@@ -1,11 +1,10 @@
 # CLOUDS
 Clone the Repository: git clone https://github.com/githubbato/CLOUDS.git
+Or choose the 'Download Zip' then extract after downloading.
 
-Go to the Project Folder then cd clouds-website
+Open the Website Locally: Navigate the file right click on Sign Up file, then Open with Browser
 
-Open the Website Locally: Navigate the file right click on Sign Up files, then Open with Browser
-
-If successful you can now sign up to the website and explore the brand.
+If successful, you can now sign up to the website and explore the brand.
 
 Developers
 Developed by: Michael Usi, Miguel, Macaraig, and Gian Pangilinan
